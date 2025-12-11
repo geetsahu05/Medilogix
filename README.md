@@ -50,3 +50,28 @@ Near-expiry alerts
 Predicts medicine demand in different regions.
 
 Helps suppliers plan inventory better.
+
+🏗️ Tech Stack
+Frontend
+
+HTML, CSS, JavaScript
+
+EJS Templates (for some views)
+
+Backend
+
+Node.js
+
+Express.js
+
+Python modules (optional processing)
+
+Database
+
+MongoDB + Mongoose
+
+Hardware (Optional)
+
+GPS module for real-time location updates
+
+Data Matrix code generation & scanning tools
